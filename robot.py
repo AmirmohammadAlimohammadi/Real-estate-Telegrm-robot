@@ -3,7 +3,7 @@ import requests
 from telebot.types import InlineKeyboardMarkup,InlineKeyboardButton,ReplyKeyboardMarkup , InputMediaPhoto
 channel_id = -1002832403172
 import time
-token = '8085202597:AAEvXZ8gepdsBouxQ1QMZf0wJCk0c-ASKME'
+token = '<token>'
 bot = telebot.TeleBot(token= token)
 new_files = dict()
 new_accounts = dict()
